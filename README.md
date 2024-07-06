@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Full-Stack Web Development**
 - 💬 Ask me about **Web Development**
 - 👨‍💻 Some of my projects are available at a [My Portfolio](https://khirodsamal.github.io/)
--  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1RAnd30OAJwO4c8G4KwBUuesKJoo7sfwl/view?usp=sharing)
+-  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ss1qsFBL9fU-6ZLauiCVBW9EB55xzST_/view?usp=drive_link)
 - 📫 How to reach me: khirods749@gmail.com
 - 😄 Pronouns: ...@khirod
 - ⚡ Fun fact: ...Always smile😄 in tough situation
