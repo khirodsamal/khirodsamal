@@ -40,7 +40,7 @@
 <h3 align="left">Connect with me</h3>
 <p align="center">
 
-<a href="https://www.linkedin.com/in/ashishkumar7123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ashish0076" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/khirod-samal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khirodsamal" height="30" width="40" /></a>
 </p>
  
 
