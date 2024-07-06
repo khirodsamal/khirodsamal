@@ -7,8 +7,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://storage.googleapis.com/media.helloumi.com/125042/channels/FJ3DZITWCY268043HGFACIP9CFUA9XM6.gif">
                                                        
-- 🔭 I’m currently working on **MySkill😄**
-- 🌱 I’m currently learning **Full-Stack Web Development**
+- 🔭 I’m a Full stack devloper 
+- 🌱 I’m currently working as a  **Full-Stack Web Devloper** in vis Pvt.Ltd
 - 💬 Ask me about **Web Development**
 - 👨‍💻 Some of my projects are available at a [My Portfolio](https://khirodsamal.github.io/)
 -  📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ss1qsFBL9fU-6ZLauiCVBW9EB55xzST_/view?usp=drive_link)
